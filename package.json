@@ -1,6 +1,6 @@
 {
-  "name": "angular-debounce",
-  "version": "0.1.0",
+  "name": "@socialsignin/angular-debounce",
+  "version": "0.1.7",
   "description": "Angular Debounce",
   "main": "angular-debounce.js",
   "scripts": {
